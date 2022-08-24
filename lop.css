@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(rgba(0,0,0,0.40),rgba(0,0,0,0.40));
+    width: 30%;
+    height: 50px;
+    background-size: cover;
+    background-position: center; 
+    display: grid;
+    place-items: center;
+    margin-left: 30px;
+    
+}
+
+button{background-color: rgb(6, 156, 136);
+    opacity: 0.9;
+    font-size: 15px;
+    color: rgb(136, 247, 219);
+    border-radius: 40px; }
+
+
+
+button:hover{background-color: rgb(238, 101, 101);
+    opacity: 0.9;
+}
